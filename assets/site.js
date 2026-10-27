@@ -1,12 +1,11 @@
 // 공통 머리말·꼬리말과 각 페이지 본문을 그립니다.
 // 홈페이지 내용은 이 파일이 아니라 data 폴더의 .yml 파일에서 고칩니다.
 
+// 첫 화면(index.html)은 메뉴에 두지 않고, 왼쪽 위 연구실 이름을 누르면 이동
 const NAV = [
-  { label: 'HOME', href: 'index.html', children: [
+  { label: 'RESEARCH', href: 'research.html' },
+  { label: 'GROUP', href: 'pi.html', children: [
     { label: 'PI', href: 'pi.html' },
-    { label: 'RESEARCH', href: 'research.html' },
-  ] },
-  { label: 'GROUP', href: 'members.html', children: [
     { label: 'CURRENT', href: 'members.html' },
     { label: 'ALUMNI', href: 'alumni.html' },
   ] },
