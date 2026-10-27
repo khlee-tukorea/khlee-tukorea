@@ -255,7 +255,7 @@ const PAGES = {
     let n = shown.length;
     const years = [...new Set(shown.map((p) => p.year))];
     return `
-      ${pageHead('논문 실적')}
+      ${pageHead('논문')}
       <section class="section"><div class="wrap">
         ${years.map((y) => `
           <div class="year">${esc(y)}</div>
