@@ -1,0 +1,43 @@
+# PI (교수 소개)
+
+name_ko: 이권형
+name_en: Kwon-Hyung Lee
+title: 조교수
+affiliation: 한국공학대학교 에너지·전기공학부
+photo: images/pi.jpg   # 사진을 바꾸려면 images 폴더에 새 사진을 넣고 파일 이름을 고치세요
+email: khlee@tukorea.ac.kr
+phone: +82-31-8041-0708
+office: 공학관 C동 217호
+
+links:
+  - label: Google Scholar
+    url: https://scholar.google.com/citations?user=ckYknrgAAAAJ&hl=ko
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/kwon-hyung-lee-6a53aa265/
+
+education:
+  - year: "2023"
+    text: "공학박사, 울산과학기술원(UNIST) 에너지화학공학과 (지도교수: 이상영)"
+  - year: "2017"
+    text: 공학사, 울산대학교 화학공학부
+
+career:
+  - year: 2026 – 현재
+    text: 조교수, 한국공학대학교 에너지·전기공학부
+  - year: 2024 – 2026
+    text: Research Associate, University of Cambridge
+  - year: 2023 – 2024
+    text: 박사후연구원, 한국에너지기술연구원
+
+awards:
+  - year: "2023"
+    text: 삼성휴먼테크논문대상 장려상
+  - year: "2022"
+    text: 우수포스터 은상, 나노기술협의회
+  - year: "2022"
+    text: 우수논문발표상, 한국공업화학회
+
+teaching:
+  - 에너지및물질전달
+  - 전기화학
+  - 물리화학

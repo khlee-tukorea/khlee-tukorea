@@ -1,0 +1,245 @@
+# PUBLICATIONS (논문 실적) — 연도별로 자동 정렬·번호가 매겨집니다.
+# 공동 제1저자는 이름 뒤에 †, 교신저자는 * 를 붙이세요. 예) Kwon-Hyung Lee†, Hong Gil†, Sang-Young Lee*
+# 이권형 교수 이름(Kwon-Hyung Lee / K.-H. Lee)은 자동으로 굵게 표시됩니다.
+# type: journal(학술지) / conference(학회 발표) / thesis(학위논문)
+# highlights: 특이사항 (커버 선정, 수상 등). 논문 블록 맨 아래에 추가하면 저널 정보 아래 한 줄로 표시됩니다.
+#   예) highlights:
+#         - Front Cover 선정
+#         - 2023 삼성휴먼테크논문대상 장려상
+# 출처: Google Scholar 프로필 + Crossref (2026-10-22 정리)
+
+# ---------- 2026 ----------
+- title: Hot embossing of thick Li-ion battery electrodes for improved rate capability and cycling stability
+  authors: Heng Wang, Kwon-Hyung Lee, Xingqi Cheng, Zheyu Gong, Yongyuan Wang, Jianqi Sun, Ruhan He, Mahdi Hamidi, Michael De Volder*
+  journal: Journal of Power Sources
+  volume: "694"
+  pages: "241278"
+  year: 2026
+  doi: 10.1016/j.jpowsour.2026.241278
+  type: journal
+
+- title: Reflex Charging for Anion-Derived Solid Electrolyte Interphase Formation
+  authors: Gyeoul Seong, Min-Gyun Kim, Eunyeong Jung, Yerin Kang, Hong-I Kim, Kwon-Hyung Lee, Kohei Shimokawa, Won Bo Lee*, Sang-Young Lee*, Seung-Hyeok Kim*
+  journal: Angewandte Chemie International Edition
+  volume: "65"
+  pages: e4035251
+  year: 2026
+  doi: 10.1002/anie.4035251
+  type: journal
+
+- title: Dual Enhancement of Ionic Conductivity and Dendrite Suppression in PVdF–HFP Solid Electrolytes via Hexagonal Boron Nitride Integration
+  authors: Jeong Hwan Seol†, Kwon-Hyung Lee†, Hyeongseok Shim, Sang Hyun Lee, Unwoo Sim, Ryeo Yun Hwang*, Tae-Hee Kim*
+  journal: ACS Applied Energy Materials
+  volume: "9"
+  pages: 152-159
+  year: 2026
+  doi: 10.1021/acsaem.5c02912
+  type: journal
+
+# ---------- 2025 ----------
+- title: Fluorine-free binder-based dry thick electrodes with Parafilm® M toward sustainable and efficient battery manufacturing
+  authors: Min Kyung Kim†, Taegyun Yu†, Sungbin Jang†, Juho Lee, Hyeseong Oh, Min Jang, Hyungyeon Cha, Huiyeol Lee, Joonhee Kang, Seung Min Lee, Hyeongseok Shim, Kwon-Hyung Lee, Gyujin Song, Wooyoung Jin, Tae-Hee Kim, Sinho Choi, Kyeong-Min Jeong, Joong Tark Han, Jung-Keun Yoo, Hun-Gi Jung, Sanghyun Song, Myoungkeon Park, Jinwoo Seong, Dongoh Kim, Hyunwoo Choi, Minjong Seong, Min Jin Lim, Wook Ryol Hwang, Jieun Nam, Sanghoon Jo, Jinsoo Kim*
+  journal: Nature Communications
+  volume: "16"
+  pages: "11174"
+  year: 2025
+  doi: 10.1038/s41467-025-66082-3
+  type: journal
+
+- title: Pulse-Charging Energy Storage for Triboelectric Nanogenerator Based on Frequency Modulation
+  authors: Kwon-Hyung Lee†, Min-Gyun Kim†, Woosuk Kang†, Hyun-Moon Park, Youngmin Cho, Jeongsoo Hong, Tae-Hee Kim, Seung-Hyeok Kim, Seok-Kyu Cho, Donghyeon Kang, Sang-Woo Kim*, Changshin Jo*, Sang-Young Lee*
+  journal: Nano-Micro Letters
+  volume: "17"
+  pages: "210"
+  year: 2025
+  doi: 10.1007/s40820-025-01714-3
+  type: journal
+
+- title: Cellulose elementary fibrils as deagglomerated binder for high-mass-loading lithium battery electrodes
+  authors: Young-Kuk Hong†, Jung-Hui Kim†, Nag-Young Kim, Kyeong-Seok Oh, Hong-I Kim, Seokhyeon Ryu, Yumi Ko, Ji-Young Kim, Kwon-Hyung Lee, Sang-Young Lee*
+  journal: Nano-Micro Letters
+  volume: "17"
+  pages: "112"
+  year: 2025
+  doi: 10.1007/s40820-024-01642-8
+  type: journal
+
+- title: "The wide range of battery systems: From micro- to structural batteries, from biodegradable to high performance batteries"
+  authors: Carlos M. Costa*, Manuel Salado, Chiara Ferrara, Riccardo Ruffo, Piercarlo Mustarelli, Rui Mao, Sheng Feng, Yuxiang Shang, Xiaochen Wang, Zhenkun Lei, Ruixiang Bai, Cheng Yan, Kwon-Hyung Lee, Sang-Woo Kim, Tae-Hee Kim, Sang-Young Lee, Long Kong, Qiang Zhang, Harsha Devnani, Shikha Gupta, James F. Rohan, Neil S. Curtis, Abhishek Lahiri, Yinghe He, S. Lanceros-Mendez*
+  journal: Progress in Materials Science
+  volume: "154"
+  pages: "101506"
+  year: 2025
+  doi: 10.1016/j.pmatsci.2025.101506
+  type: journal
+
+- title: Dual-fibrous PTFE structure enabling uniform and thick dry electrodes for high-energy-density and long-lasting batteries
+  authors: Kwon-Hyung Lee†, Hyeongseok Shim†, Sang Hyun Lee, Hyeong-Jong Kim, Chanhyun Park, Jingyu Choi, Seok-Ju Lee, Young-Kuk Hong, Jihong Lyu, Jin Chul Kim, Sijeong Park, Hyungyeon Cha, Wooyoung Jin, Jinsoo Kim, Sinho Choi, Sang-Young Lee, Sung-Kyun Jung, Michael De Volder, Tae-Hee Kim*, Gyujin Song*
+  journal: Energy & Environmental Science
+  volume: "18"
+  pages: 8446-8461
+  year: 2025
+  doi: 10.1039/d5ee03240g
+  type: journal
+  highlights:
+    - 후면표지논문 선정
+
+# ---------- 2024 ----------
+- title: Stretchable coaxial gel polymer electrolyte based on a Styrene–Ethylene–Butylene–Styrene block copolymer nanofiber for stretchable Lithium-Ion batteries
+  authors: Jaehyun Lee†, Joonkyeong Moon†, Kwon-Hyung Lee, David B. Ahn, Sang-Woo Kim, Sang-Young Lee, Dae-Hyun Cho*, Doyoung Byun*
+  journal: ACS Applied Polymer Materials
+  volume: "6"
+  pages: 12964-12972
+  year: 2024
+  doi: 10.1021/acsapm.4c01673
+  type: journal
+
+- title: Cell architecture designs towards high-energy-density microscale energy storage devices
+  authors: Kwon-Hyung Lee, Sang-Young Lee*
+  journal: Nano Research Energy
+  volume: "3"
+  pages: e9120101
+  year: 2024
+  doi: 10.26599/nre.2023.9120101
+  type: journal
+
+- title: Conformal deposition of lithium metal on electroactive organic materials
+  authors: Seung-Hyeok Kim†, Jae-Ho Park†, Ji Eun Lee†, Imanuel Kristanto, Jae Yeol Park, Hoyoung Suh, Ji-Young Kim, Kwon-Hyung Lee, Jiwon Jeong, Wonyoung Chang*, Sang Kyu Kwak*, Kyung Yoon Chung*, Sang-Young Lee*
+  journal: Advanced Energy Materials
+  volume: "14"
+  pages: "2304337"
+  year: 2024
+  doi: 10.1002/aenm.202304337
+  type: journal
+
+- title: Power-integrated, wireless neural recording systems on the cranium using a direct printing method for deep-brain analysis
+  authors: Yong Won Kwon†, David B. Ahn†, Young-Geun Park†, Enji Kim, Dong Ha Lee, Sang-Woo Kim, Kwon-Hyung Lee, Won-Yeong Kim, Yeon-Mi Hong, Chin Su Koh, Hyun Ho Jung, Jin Woo Chang, Sang-Young Lee*, Jang-Ung Park*
+  journal: Science Advances
+  volume: "10"
+  pages: eadn3784
+  year: 2024
+  doi: 10.1126/sciadv.adn3784
+  type: journal
+
+- title: Bi-Dimensional PTFE Fibrillation Process Implemented in Solvent-Free Manufacturing of Ultra Thick Electrodes for Lithium-Ion Batteries
+  authors: Hyeong-Seok Shim, Sang Hyun Lee, Kwon-Hyung Lee, Gyujin Song*, Tae-Hee Kim*
+  journal: ECS Meeting Abstracts (PRiME 2024)
+  volume: MA2024-02
+  pages: "843"
+  year: 2024
+  doi: 10.1149/ma2024-027843mtgabs
+  type: conference
+
+# ---------- 2023 ----------
+- title: "Folding the Energy Storage: Beyond the Limit of Areal Energy Density of Micro-Supercapacitors"
+  authors: Kwon-Hyung Lee†, Sang-Woo Kim†, Minkyung Kim†, David B. Ahn, Young-Kuk Hong, Seung-Hyeok Kim, Jae Sung Lee*, Sang-Young Lee*
+  journal: Advanced Energy Materials
+  volume: "13"
+  pages: "2204327"
+  year: 2023
+  doi: 10.1002/aenm.202204327
+  type: journal
+  highlights:
+    - 삼성휴먼테크 논문대상 장려상
+
+- title: Enabling On-Demand Conformal Zn-Ion Batteries on Non-Developable Surfaces
+  authors: David B. Ahn, Won-Yeong Kim, Kwon-Hyung Lee, Seong-Sun Lee, Seung-Hyeok Kim, Sodam Park, Young-Kuk Hong, Sang-Young Lee*
+  journal: Advanced Functional Materials
+  volume: "33"
+  pages: "2211597"
+  year: 2023
+  doi: 10.1002/adfm.202211597
+  type: journal
+
+# ---------- 2022 ----------
+- title: Transparent and Multi-Foldable Nanocellulose Paper Microsupercapacitors
+  authors: Sang-Woo Kim, Kwon-Hyung Lee, Yong-Hyeok Lee, Won-Jae Youe, Jae-Gyoung Gwon, Sang-Young Lee*
+  journal: Advanced Science
+  volume: "9"
+  pages: "2203720"
+  year: 2022
+  doi: 10.1002/advs.202203720
+  type: journal
+
+- title: "All-Direct-Ink-Writing of Artistic Supercapacitors: Toward On-Demand Embodied Power Sources"
+  authors: Seong-Sun Lee, Se-Hee Kim, David B. Ahn, Kwon-Hyung Lee, Yejin Jo, Sunho Jeong*, Sang-Young Lee*
+  journal: Advanced Functional Materials
+  volume: "32"
+  pages: "2202901"
+  year: 2022
+  doi: 10.1002/adfm.202202901
+  type: journal
+
+- title: Light-triggered autonomous shape-reconfigurable and locomotive rechargeable power sources
+  authors: Kwon-Hyung Lee†, Jisoo Jeon†, Woongbi Cho, Sang-Woo Kim, Hyunseok Moon, Jeong Jae Wie*, Sang-Young Lee*
+  journal: Materials Today
+  volume: "55"
+  pages: 56-65
+  year: 2022
+  doi: 10.1016/j.mattod.2022.04.003
+  type: journal
+  highlights:
+    - 2022 나노코리아 우수포스터 발표 은상
+
+- title: On-demand solid-state artistic ultrahigh areal energy density microsupercapacitors
+  authors: Ju-Won Lee†, Kwon-Hyung Lee†, Seong-Sun Lee†, David B. Ahn, Jinyoung Chun, Seo Hui Kang, Kwang Chul Roh*, Sang-Young Lee*
+  journal: Energy Storage Materials
+  volume: "47"
+  pages: 569-578
+  year: 2022
+  doi: 10.1016/j.ensm.2022.02.039
+  type: journal
+  highlights:
+    - 2022 한국공업화학회 우수포스터발표상
+
+- title: Printed solid-state electrolytes for form factor-free Li-metal batteries
+  authors: David B. Ahn†, Kwon-Hyung Lee†, Sang-Young Lee*
+  journal: Current Opinion in Electrochemistry
+  volume: "32"
+  pages: "100889"
+  year: 2022
+  doi: 10.1016/j.coelec.2021.100889
+  type: journal
+
+- title: Capacitor Integrated Magnetic Actuator
+  authors: H. Lee, Y. Jang, J. Kim, H. Won, K.-H. Lee, S.-Y. Lee, J. Kim*
+  journal: Materials Research Society (MRS) Meeting
+  year: 2022
+  type: conference
+
+- title: Origami Structured Magnetic Actuator with Integrated Capacitor
+  authors: H. Lee, J. Kim, Y. Jang, H. Won, K.-H. Lee, S.-Y. Lee, J. Kim*
+  journal: 대한금속·재료학회 학술대회
+  year: 2022
+  type: conference
+
+# ---------- 2020 ----------
+- title: Form factor-free, printed power sources
+  authors: David B. Ahn†, Seong-Sun Lee†, Kwon-Hyung Lee, Jung-Hui Kim, Ju-Won Lee, Sang-Young Lee*
+  journal: Energy Storage Materials
+  volume: "29"
+  pages: 92-112
+  year: 2020
+  doi: 10.1016/j.ensm.2020.04.007
+  type: journal
+
+- title: Ultrahigh areal number density solid-state on-chip microsupercapacitors via electrohydrodynamic jet printing
+  authors: Kwon-Hyung Lee, Seong-Sun Lee, David B. Ahn, Jaehyun Lee, Doyoung Byun, Sang-Young Lee*
+  journal: Science Advances
+  volume: "6"
+  pages: eaaz1692
+  year: 2020
+  doi: 10.1126/sciadv.aaz1692
+  type: journal
+  highlights:
+    - 2020 10대 나노기술 선정 (https://www.kontrs.or.kr/business/07_2.php?admin_mode=read&no=588&make=&search=&notice_type=)
+
+
+- title: Printed built-in power sources
+  authors: Kwon-Hyung Lee†, David B. Ahn†, Jung-Hui Kim, Ju-Won Lee, Sang-Young Lee*
+  journal: Matter
+  volume: "2"
+  pages: 345-359
+  year: 2020
+  doi: 10.1016/j.matt.2019.11.015
+  type: journal

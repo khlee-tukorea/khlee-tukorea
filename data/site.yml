@@ -1,0 +1,44 @@
+# 연구실 기본 정보 · HOME 화면 문구
+# 문장 안에 콜론(:)이 들어가면 문장 전체를 큰따옴표("...")로 감싸 주세요.
+
+name_ko: 에너지 디바이스 제조 연구실
+name_en: Energy Device Manufacturing Lab
+short_name: Kwon's Research Group
+affiliation: 한국공학대학교 에너지·전기공학부
+address: 경기도 시흥시 산기대학로 237 한국공학대학교 공학관 C동 217호
+email: khlee@tukorea.ac.kr
+phone: +82-31-8041-0708
+
+links:
+  - label: 한국공학대학교
+    url: https://www.tukorea.ac.kr/intro/index.html
+
+# HOME 첫 화면
+hero:
+  headline: |-
+    더 나은 배터리, 
+    여기서 함께 만듭니다.
+  intro: >-
+    에너지 디바이스 제조 연구실은 이차전지 제조 공정을 근본부터 다시 설계합니다.
+    용매 없는 건식 후막 전극, 기존 공정으로는 만들 수 없던 크기와 형태의 프린팅 전지,
+    그리고 AI 기반 공정·성능 분석으로 현재 배터리 기술의 한계를 돌파합니다.
+
+# 상단 배너(HOME 첫 화면, 각 페이지 제목 부분)의 배경 그림
+header_image: images/header-bg.jpg
+
+# HOME 하단 구글 지도에서 찾을 장소 (구글 지도 검색창에 넣는 것과 같습니다)
+map_query: 한국공학대학교 공학관 C동
+
+# 학생 모집 안내 (HOME 하단, GROUP 페이지에 함께 표시)
+recruit:
+  title: 함께 충전할 연구원을 찾습니다
+  body: |-
+    배터리 제조 공정을 함께 연구할 대학원생과 학부연구생을 모집합니다.
+    지식보다 중요한 것은 직접 만들어 보고 끝까지 파고드는 태도입니다.
+  targets:
+    - 석사과정
+    - 박사과정
+    - 석박사통합과정
+    - 학부연구생
+  visit: 공학관 C동 217호
+  note: 이메일 문의, 연구실 방문 언제든지 열려있습니다!

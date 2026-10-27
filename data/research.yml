@@ -1,0 +1,79 @@
+# RESEARCH (연구 분야)
+# summary: HOME 화면 카드에 들어가는 한 줄 요약
+# images: images 폴더에 넣은 파일 이름 (없으면 [] 로 비워 둠)
+
+intro: 소재에서 전극, 셀에 이르는 제조 공정 전 과정을 다시 설계해 이차전지의 성능과 생산성을 함께 끌어올립니다.
+
+topics:
+  - id: electrode
+    title: Electrode Design
+    title_ko: 건식·후막 전극 제조 공정
+    summary: 용매 없는 건식 공정과 초후막 전극으로 셀 에너지밀도의 한계를 넘습니다.
+    description: >-
+      전극 제조공정 연구를 통해 이차전지의 성능 고도화를 추구합니다.
+      고용량 후막전극 형성을 통해 셀 내의 부속품(집전체, 분리막 등)을 최소화하며, 이를 통해 셀의 에너지밀도를 향상시킵니다.
+      건식제조공정을 통해 기존 전극기술에서는 달성할 수 없었던 기술적 한계를 돌파하고, 상용화를 위한 문제를 해결해 나갑니다.
+    images:
+      - images/electrode-cover.jpg
+      - images/electrode-ees.png
+      - images/electrode-ees2.png
+    papers:
+      - title: Dual-fibrous PTFE structure enabling uniform and thick dry electrodes for high-energy-density and long-lasting batteries
+        journal: Energy & Environmental Science
+        year: 2025
+        doi: 10.1039/d5ee03240g
+      - title: Hot embossing of thick Li-ion battery electrodes for improved rate capability and cycling stability
+        journal: Journal of Power Sources
+        year: 2026
+        doi: 10.1016/j.jpowsour.2026.241278
+
+  - id: data
+    title: Data-driven Process Modelling & Diagnosis
+    title_ko: 데이터 기반 공정 모델링·진단
+    summary: 머신러닝으로 소재–전극–셀의 상관관계를 읽고 최적 공정을 찾아냅니다.
+    description: >-
+      머신러닝에 기반하여 소재-전극-셀 간 물성과 성능의 연관관계를 파악하고 최적 공정 파라미터를 추적합니다.
+      이를 통해 배터리 수명 예측과 성능 향상을 추구하고, 제조공정의 저비용화 및 효율화를 목표로 합니다.
+    images:
+      - images/data-driven.png
+    papers: []
+
+  - id: micro
+    title: Microscale Battery
+    title_ko: 마이크로 전지
+    summary: 기존 공정으로는 만들 수 없던 크기와 모양의 전지를 직접 프린팅합니다.
+    description: >-
+      기존 전지제조공정으로는 구현할 수 없는 크기와 모양의 이차전지를 구현합니다.
+      프린팅 공정을 통해 이차전지 소재를 직접 프린팅하여 새로운 형태의 디바이스를 제조하며, 다양한 어플리케이션에 적용합니다.
+    images:
+      - images/micro-aem.png
+      - images/micro-sciadv.png
+      - images/micro-mattoday.png
+    papers:
+      - title: "Folding the Energy Storage: Beyond the Limit of Areal Energy Density of Micro-Supercapacitors"
+        journal: Advanced Energy Materials
+        year: 2023
+        doi: 10.1002/aenm.202204327
+      - title: Light-triggered autonomous shape-reconfigurable and locomotive rechargeable power sources
+        journal: Materials Today
+        year: 2022
+        doi: 10.1016/j.mattod.2022.04.003
+      - title: Ultrahigh areal number density solid-state on-chip microsupercapacitors via electrohydrodynamic jet printing
+        journal: Science Advances
+        year: 2020
+        doi: 10.1126/sciadv.aaz1692
+
+# 수행 과제
+projects:
+  - title: 지속가능한 고에너지밀도 이차전지를 위한 실용적 건식 후막 전극 공정/소재 융합 솔루션 개발
+    agency: 과학기술정보통신부
+    period: 2024 – 2025
+    role: 연구책임자
+  - title: 디바이스 맞춤형 마이크로프린터블 키네틱발전-슈퍼커패시터 통합전원 소재/소자 및 응용 플랫폼 개발
+    agency: 과학기술정보통신부
+    period: 2021 – 2023
+    role: 총괄실무책임자
+  - title: 포스트 리튬전지 및 헤테로콜로이드 화학 기반 고성능/자유형상 프린터블 전원 시스템
+    agency: 과학기술정보통신부   
+    period: 2018 – 2021
+    role: 총괄실무책임자

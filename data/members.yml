@@ -1,0 +1,20 @@
+# GROUP (구성원 · 졸업생)
+# 구성원이 생기면 current: [] 를 지우고 아래 예시처럼 적으세요. 맨 앞의 # 을 지우면 예시가 살아납니다.
+# 구성원이 한 명도 없으면 "당신을 기다립니다" 배터리 그림이 대신 표시됩니다.
+
+current: []
+#  - name_ko: 홍길동
+#    name_en: Gildong Hong
+#    position: 석사과정
+#    since: 2027
+#    topic: 건식 후막 전극 공정
+#    education: B.S. 한국공학대학교 에너지·전기공학부
+#    email: hong@tukorea.ac.kr
+#    photo: images/members/hong.jpg
+
+alumni: []
+#  - name: 홍길동
+#    degree: 석사
+#    period: 2027 – 2029
+#    thesis: 학위논문 제목
+#    now: ○○전자 배터리연구소
