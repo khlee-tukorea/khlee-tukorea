@@ -244,7 +244,7 @@ const PAGES = {
     const body = alumni.length ? `
       <table class="list"><thead><tr><th>이름</th><th>학위</th><th>기간</th><th>학위논문</th><th>현재 소속</th></tr></thead>
       <tbody>${alumni.map((a) => `<tr><td>${esc(a.name)}</td><td>${esc(a.degree)}</td><td>${esc(a.period)}</td><td>${esc(a.thesis)}</td><td>${esc(a.now)}</td></tr>`).join('')}</tbody></table>`
-      : `<div class="card" style="text-align:center;padding:48px 24px"><h2 style="margin:0 0 8px">첫 번째 졸업생을 기다리고 있습니다</h2><p class="muted" style="margin:0">이 표의 첫 줄은 당신의 이름으로 채워질 수 있습니다. <a href="members.html">함께하기 →</a></p></div>`;
+      : `<div class="card" style="text-align:center;padding:48px 24px"><h2 style="margin:0">첫 번째 졸업생을 기다리고 있습니다</h2></div>`;
     return `${pageHead('졸업생')}<section class="section"><div class="wrap">${body}</div></section>`;
   },
 
