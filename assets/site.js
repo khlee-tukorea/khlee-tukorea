@@ -267,6 +267,7 @@ const PAGES = {
                 <div class="a">${esc(p.authors).replace(PI_NAMES, '<b>$1</b>')}</div>
                 <div class="j"><i>${esc(p.journal)}</i>${p.volume ? `, ${esc(p.volume)}` : ''}${p.pages ? `, ${esc(p.pages)}` : ''} (${esc(p.year)})${doiLink(p.doi)}</div>
                 ${[].concat(p.highlights ?? []).length ? `<div class="hl">${[].concat(p.highlights).map(linkify).join(' · ')}</div>` : ''}
+                ${list(p.press?.links).length ? `<div class="press"><span>${esc(p.press.label || '언론 보도')}</span>${list(p.press.links).map((l) => `<a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.name)}</a>`).join(' · ')}</div>` : ''}
               </div>
             </li>`).join('')}</ol>`).join('')}
       </div></section>`;

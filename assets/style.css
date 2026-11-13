@@ -198,6 +198,8 @@ table.list th { background: var(--bg-2); font-size: 14px; }
 .pub .j i { color: var(--dark-2); font-weight: 600; }
 .pub .hl { margin-top: 3px; max-width: 80ch; font-size: 14px; font-weight: 600; color: #9a3a1a; }
 .pub .hl a { color: inherit; font-weight: 500; text-decoration: underline; }
+.pub .press { margin-top: 3px; max-width: 80ch; font-size: 14px; color: var(--muted); }
+.pub .press span { font-weight: 600; margin-right: 8px; }
 
 /* ---------- 푸터 ---------- */
 .site-footer { background: var(--dark); color: #c9c4b9; padding: 40px 0; margin-top: 40px; font-size: 14px; }

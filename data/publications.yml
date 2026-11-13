@@ -6,6 +6,12 @@
 #   예) highlights:
 #         - Front Cover 선정
 #         - 2023 삼성휴먼테크논문대상 장려상
+# press: 언론 보도 기사. 논문 블록 맨 아래에 추가하면 "국내외 언론보도  연합뉴스 · Tech Explorist"처럼 링크로 표시됩니다.
+#   예) press:
+#         label: 국내외 언론보도
+#         links:
+#           - name: 연합뉴스
+#             url: https://www.yna.co.kr/...
 # 출처: Google Scholar 프로필 + Crossref (2026-10-22 정리)
 
 # ---------- 2026 ----------
@@ -83,6 +89,13 @@
   type: journal
   highlights:
     - 후면표지논문 선정
+  press:
+    label: 국내외 언론보도
+    links:
+      - name: EurekAlert!
+        url: https://www.eurekalert.org/news-releases/1108298
+      - name: 뉴스밴드
+        url: https://www.newsband.kr/news/articleView.html?idxno=536982
 
 # ---------- 2024 ----------
 - title: Stretchable coaxial gel polymer electrolyte based on a Styrene–Ethylene–Butylene–Styrene block copolymer nanofiber for stretchable Lithium-Ion batteries
@@ -180,6 +193,11 @@
   type: journal
   highlights:
     - 2022 나노코리아 우수포스터 발표 은상
+  press:
+    label: 국내 언론보도
+    links:
+      - name: 산업일보
+        url: https://kidd.co.kr/news/226918
 
 - title: On-demand solid-state artistic ultrahigh areal energy density microsupercapacitors
   authors: Ju-Won Lee†, Kwon-Hyung Lee†, Seong-Sun Lee†, David B. Ahn, Jinyoung Chun, Seo Hui Kang, Kwang Chul Roh*, Sang-Young Lee*
@@ -233,6 +251,13 @@
   type: journal
   highlights:
     - 2020 10대 나노기술 선정 (https://www.kontrs.or.kr/business/07_2.php?admin_mode=read&no=588&make=&search=&notice_type=)
+  press:
+    label: 국내외 언론보도
+    links:
+      - name: 연합뉴스
+        url: https://www.yna.co.kr/view/AKR20200310075900057?input=1195m
+      - name: Tech Explorist
+        url: https://www.techexplorist.com/tiny-microsupercapacitor-msc-ideal-wearable-devices/30888/
 
 
 - title: Printed built-in power sources
