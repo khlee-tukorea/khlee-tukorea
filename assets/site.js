@@ -256,7 +256,7 @@ const PAGES = {
     return `
       ${pageHead('논문')}
       <section class="section"><div class="wrap">
-        ${site.scholar ? `<p class="pub-links"><a href="${esc(site.scholar)}" target="_blank" rel="noopener">Google Scholar에서 전체 논문·인용 보기</a></p>` : ''}
+        ${site.scholar ? `<p class="pub-links"><a href="${esc(site.scholar)}" target="_blank" rel="noopener">Google Scholar</a></p>` : ''}
         ${years.map((y) => `
           <div class="year">${esc(y)}</div>
           <ol class="pubs">${shown.filter((p) => p.year === y).map((p) => `
