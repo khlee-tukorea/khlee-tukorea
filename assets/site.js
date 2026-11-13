@@ -248,7 +248,7 @@ const PAGES = {
     return `${pageHead('졸업생')}<section class="section"><div class="wrap">${body}</div></section>`;
   },
 
-  async publications() {
+  async publications(site) {
     const pubs = list(await load('publications'));
     const shown = pubs.slice().sort((a, b) => (b.year || 0) - (a.year || 0));
     let n = shown.length;
@@ -256,6 +256,7 @@ const PAGES = {
     return `
       ${pageHead('논문')}
       <section class="section"><div class="wrap">
+        ${site.scholar ? `<p class="pub-links"><a href="${esc(site.scholar)}" target="_blank" rel="noopener">Google Scholar에서 전체 논문·인용 보기</a></p>` : ''}
         ${years.map((y) => `
           <div class="year">${esc(y)}</div>
           <ol class="pubs">${shown.filter((p) => p.year === y).map((p) => `

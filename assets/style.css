@@ -127,7 +127,8 @@ main { min-height: 60vh; }
 .pi .contact div:last-child { border-bottom: 0; }
 .pi .contact b { min-width: 52px; color: var(--muted); font-weight: 600; }
 .pi .links { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 14px; }
-.pi .links a { border: 1px solid var(--line); background: var(--card); padding: 10px 16px; font-size: 14px; line-height: 1.6; }
+.pi .links a, .pub-links a { border: 1px solid var(--line); background: var(--card); padding: 10px 16px; font-size: 14px; line-height: 1.6; display: inline-block; }
+.pub-links { margin: 0 0 32px; }
 .pi h2.name { font-size: 32px; margin: 0; }
 .pi .title { color: var(--muted); margin: 4px 0 28px; }
 .cv h3 { font-size: 15px; letter-spacing: .12em; color: var(--accent); margin: 28px 0 10px; }

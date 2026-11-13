@@ -13,6 +13,9 @@ links:
   - label: 한국공학대학교
     url: https://www.tukorea.ac.kr/intro/index.html
 
+# 논문(PUBLICATIONS) 페이지 맨 위에 보이는 Google Scholar 링크 (지우면 링크가 사라짐)
+scholar: https://scholar.google.com/citations?user=ckYknrgAAAAJ&hl=ko
+
 # HOME 첫 화면
 hero:
   headline: |-
