@@ -14,7 +14,7 @@ const NAV = [
 ];
 
 // 논문 저자 목록에서 굵게 표시할 교수 이름
-const PI_NAMES = /(Kwon[-‐ ]Hyung Lee|K\.[-‐ ]?H\. Lee)/g;
+const PI_NAMES = /(Kwon[-‐ ]Hyung Lee|K\.[-‐ ]?H\. Lee|이권형)/g;
 
 // 선 아이콘 (메일·위치·메뉴). 한 가지 굵기로 그린 SVG
 const ICON_PATHS = {
@@ -265,7 +265,7 @@ const PAGES = {
               <div>
                 <div class="t">${esc(p.title)}</div>
                 <div class="a">${esc(p.authors).replace(PI_NAMES, '<b>$1</b>')}</div>
-                <div class="j"><i>${esc(p.journal)}</i>${p.volume ? `, ${esc(p.volume)}` : ''}${p.pages ? `, ${esc(p.pages)}` : ''} (${esc(p.year)})${doiLink(p.doi)}</div>
+                <div class="j"><i>${esc(p.journal)}</i>${p.volume ? `, ${esc(p.volume)}` : ''}${p.pages ? `, ${esc(p.pages)}` : ''} (${esc(p.year)})${doiLink(p.doi)}${p.url ? ` <a href="${esc(p.url)}" target="_blank" rel="noopener">원문 보기</a>` : ''}</div>
                 ${[].concat(p.highlights ?? []).length ? `<div class="hl">${[].concat(p.highlights).map(linkify).join(' · ')}</div>` : ''}
                 ${list(p.press?.links).length ? `<div class="press"><span>${esc(p.press.label || '언론 보도')}</span>${list(p.press.links).map((l) => `<a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.name)}</a>`).join(' · ')}</div>` : ''}
               </div>

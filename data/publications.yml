@@ -1,7 +1,8 @@
 # PUBLICATIONS (논문 실적) — 연도별로 자동 정렬·번호가 매겨집니다.
 # 공동 제1저자는 이름 뒤에 †, 교신저자는 * 를 붙이세요. 예) Kwon-Hyung Lee†, Hong Gil†, Sang-Young Lee*
 # 이권형 교수 이름(Kwon-Hyung Lee / K.-H. Lee)은 자동으로 굵게 표시됩니다.
-# type: journal(학술지) / conference(학회 발표) / thesis(학위논문)
+# type: journal(학술지) / conference(학회 발표) / thesis(학위논문) / report(보고서)
+# url: DOI가 없는 보고서 등은 url에 주소를 적으면 "원문 보기" 링크로 표시됩니다.
 # highlights: 특이사항 (커버 선정, 수상 등). 논문 블록 맨 아래에 추가하면 저널 정보 아래 한 줄로 표시됩니다.
 #   예) highlights:
 #         - Front Cover 선정
@@ -41,6 +42,13 @@
   year: 2026
   doi: 10.1021/acsaem.5c02912
   type: journal
+
+- title: 플렉서블 이차전지용 소재·시스템 및 고분자 전해질·이온전달막 개발
+  authors: 이상영 (주저자, 연세대학교), 이권형 (공동저자, 케임브리지대학교)
+  journal: "STI Brief (Top-Tier STI), 2026 Vol.01"
+  year: 2026
+  url: https://top-tier.re.kr/kor/STIBrief?method=view&mgrId=sti&bbsId=180
+  type: report
 
 # ---------- 2025 ----------
 - title: Fluorine-free binder-based dry thick electrodes with Parafilm® M toward sustainable and efficient battery manufacturing
